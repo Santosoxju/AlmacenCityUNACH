@@ -1,0 +1,12 @@
+
+html, body {
+height: 100%; /* Asegúrate de que ocupen el 100% del viewport */
+margin: 50; /* Eliminar márgenes del body */
+padding: 0; /* Eliminar padding del body */
+}
+
+.container {
+padding-top: 20; /* Asegúrate de que no haya padding superior en el contenedor */
+margin-top: 15px; /* Espacio por encima del contenedor */
+
+}
